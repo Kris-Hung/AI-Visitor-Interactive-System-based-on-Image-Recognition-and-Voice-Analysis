@@ -1,0 +1,109 @@
+{
+	"person_count":"7",
+  "person_info": [
+    {
+      "Name": "張老師",
+      "ID": "0",
+      "Subtitle": "助理教授Asst. Prof.",
+      "Content": "研究專長: \n嵌入式系統、作業系統、多核心即時排程演算法、異質計算資源管理",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "蔡老師",
+      "ID": "1",
+      "Subtitle": "教授 Professor",
+      "Content": "研究專長: 互動媒體設計與應用，數位內容與服務設計，人機介面與使用性測試，身心障礙及輔助科技研究",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "梁老師",
+      "ID": "2",
+      "Subtitle": "助理教授Asst. Prof.",
+      "Content": "研究專長: \n下一代行動通訊網路、跨層資源排程與管理、物聯網、機器通訊、智慧家庭與應用",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "洪老師",
+      "ID": "3",
+      "Subtitle": "教授 Professor",
+      "Content": "研究專長: 平行與分散式計算、深度學習、醫學影像分析、生物資訊、智慧製造與機械",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "Anny",
+      "ID": "4",
+      "Subtitle": "行政助理Admin.Asst.",
+      "Content": "行政負責: 廠商洽談、行政安排、會議安排、會計、人事規畫、賓客接待",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "林老師",
+      "ID": "5",
+      "Subtitle": "副主任 D.Director",
+      "Content": "研究專長: \n平行與分散式處理、生物資訊(基因體學、蛋白質體學、系統生物學、Solexa)",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "吳老師",
+      "ID": "6",
+      "Subtitle": "主任 Director",
+      "Content": "研究專長: 寬頻行動通訊、無線網路、網路安全、智慧型感測系統、分散式系統\n",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "蔡未來",
+      "ID": "7",
+      "Subtitle": "副教授 Associate Professor",
+      "Content": "研究專長: 幻想延伸、畫大餅、無限加疊 \nLAB: 夢幻-LAB",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "鍾現在",
+      "ID": "8",
+      "Subtitle": "副教授 Associate Professor",
+      "Content": "程式寫起來",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "邱過去",
+      "ID": "9",
+      "Subtitle": "副教授 Associate Professor",
+      "Content": "程式寫起來",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "江努力",
+      "ID": "10",
+      "Subtitle": "助理教授 Assistant Professo",
+      "Content": "程式寫起來",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "嚴聰明",
+      "ID": "11",
+      "Subtitle": "助理教授 Assistant Professo",
+      "Content": "程式寫起來",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "梁大餅",
+      "ID": "12",
+      "Subtitle": "助理教授 Assistant Professo",
+      "Content": "程式寫起來",
+      "Email": "cj890619870305@gmail.com"
+    },
+    {
+      "Name": "方小餅",
+      "ID": "13",
+      "Subtitle": "技士 Artificer",
+      "Content": "程式寫起來",
+      "Email": "cj890619870305@gmail.com"
+    }
+  ]
+	
+	
+
+
+
+
+}
