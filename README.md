@@ -3,7 +3,7 @@
 This is an interactive system assisting receptionists by deploying 3D virtual characters, providing guest-receiving functions, integrated with image recognition and voice analysis.
 
 ## Introduction Video
-[![IMAGE ALT TEXT HERE](https://youtu.be/cPyP9Xj_8s0/0.jpg)](https://youtu.be/cPyP9Xj_8s0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cPyP9Xj_8s0/0.jpg)](https://www.youtube.com/watch?v=cPyP9Xj_8s0)
 
 ## Installation
 * XAMPP
