@@ -1,10 +1,9 @@
 # AI Visitor Interactive System based on Image Recognition and Voice Analysis
 
-This is a recommendation system helping you not only get the most suitable electric appliance but also calculate electricity fee depending on different users’ needs.
-This system fetched over one hundred thousand data containing ten categories from open government data.
+This is an interactive system assisting receptionists by deploying 3D virtual characters, providing guest-receiving functions, integrated with image recognition and voice analysis.
 
 ## Introduction Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/r_pehYJlQKo/0.jpg)](https://youtu.be/cPyP9Xj_8s0)
+[![IMAGE ALT TEXT HERE](https://youtu.be/cPyP9Xj_8s0/0.jpg)](https://youtu.be/cPyP9Xj_8s0)
 
 ## Installation
 * XAMPP
