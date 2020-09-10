@@ -27,6 +27,7 @@ With this system, both the internal staff and external visitors can enjoy these 
 * System Functions
 
 There are four main functions in the system.
+
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_4.png" width="500">
 
 1. 3D virtual character interaction
