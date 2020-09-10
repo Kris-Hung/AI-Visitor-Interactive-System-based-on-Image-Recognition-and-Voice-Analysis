@@ -15,8 +15,9 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 * System Introduction
 
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_2.png" width="500">
-<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_3.png" width="500">
 Why we build this system?
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_3.png" width="500">
+
 
 
 * System Functions
@@ -41,4 +42,4 @@ Why we build this system?
 
 ## Team
 * A-Chi Huang, Jamie Su, Amy Lee and me :1
-* Prof. J-M Liang and Prof. S-L Wu
+* Mentor: Prof. Jia-Ming Liang, PhD / Prof. Shih-Lin Wu, PhD
