@@ -12,8 +12,7 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 
 
 ## Overview
-* System Introduction
-
+* System Introduction </br>
 Why we build this system?
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_2.png" width="500">
 Traditionally, visitor reception services for companies, factories, institutions, and communities are provided for consulting or assist through the professionals at the counter. However, it needs to employ many professionals in different institutes, factories, and/or floors, which greatly increases personnel costs and cause management difficulties. In addition, the current visitor services can only assist to contact persons or consult the certain locations but neglects to remember visitors’ preferences and analyze their characteristics to provide a more friendly interaction, such as greetings, concerns, reminders or conversations, so as to mitigate the strangeness and anxiety of visitors.
