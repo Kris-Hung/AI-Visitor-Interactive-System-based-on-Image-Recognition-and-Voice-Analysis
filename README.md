@@ -17,10 +17,12 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 Why we build this system?
 
 Traditionally, visitor reception services for companies, factories, institutions, and communities are provided for consulting or assist through the professionals at the counter. However, it needs to employ many professionals in different institutes, factories, and/or floors, which greatly increases personnel costs and cause management difficulties. In addition, the current visitor services can only assist to contact persons or consult the certain locations but neglects to remember visitors’ preferences and analyze their characteristics to provide a more friendly interaction, such as greetings, concerns, reminders or conversations, so as to mitigate the strangeness and anxiety of visitors.
+
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_2.png" width="500">
 
 In view of this, we design an interactive AI visitor system based on image analysis and speech recognition with the virtual portraits. In addition, the system can also provide community interaction among internal staff in companies, institutions, and communities through the development of virtual gardens, community photo stickers and virtual pet breeding games, which can enhance the working atmosphere.
 With this system, both the internal staff and external visitors can enjoy these special experiences through the artificial intelligence services.
+
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_3.png" width="500">
 
 
@@ -32,6 +34,7 @@ There are four main functions in the system.
 
 1. 3D virtual character interaction
 Combined with real-time image recognition with the webcam, the information of visitors such as the age, expression, posture and wearing can be obtained and can provide instant and vivid audio-based interaction. This also can significantly reduce the strangeness and anxiety of visitors while providing the variety of audio-based consultations, special contact notifications and message services and thus makes the service be richer experiences.
+
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_5.png" width="500">
 
 2. Personnel connection
