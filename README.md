@@ -22,31 +22,34 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 
 
 ## Tool used
-* Unity
+* Unity engine
 * C#
 
 
 ## Overview
-* Home Page
+* System Introduction
 
-<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_1.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_2.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_3.png" width="500">
 
-* Single electric appliance recommendation
+* System Functions
 
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/single.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_4.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_5.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_6.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_7.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_8.png" width="500">
 
-* Combinational electric appliance recommendation
+* Key Technologies
 
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/combination.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_9.png" width="500">
 
-* Electricity fee calculation form
+* Comparison
 
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/form.png" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_10.png" width="500">
 
-* Fee calculation result in three different kinds of chart
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/fee_piechart.png" width="500">
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/fee_bar.png" width="500">
-<img src="https://github.com/Kris-Hung/Electricity-Fee-Calculation-and-Electric-Appliance-Recommendation-Cloud-System/blob/master/screenshot/fee_annual.png" width="500">
+* Conclusion
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_12.png" width="500">
 
 ## Team
 A-Chi Huang, Jamie Su, Amy Lee and me :1
