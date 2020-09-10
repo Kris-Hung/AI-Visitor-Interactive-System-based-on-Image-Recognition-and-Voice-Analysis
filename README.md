@@ -52,5 +52,5 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_12.png" width="500">
 
 ## Team
-A-Chi Huang, Jamie Su, Amy Lee and me :1
-Prof. J-M Liang and Prof. S-L Wu
+* A-Chi Huang, Jamie Su, Amy Lee and me :1
+* Prof. J-M Liang and Prof. S-L Wu
