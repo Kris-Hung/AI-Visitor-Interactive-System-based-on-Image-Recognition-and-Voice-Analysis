@@ -41,14 +41,17 @@ Visitors can take pictures and download them by the QR code easily.
 * Key Technologies
 There are three key technologies in our system.
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_9.png" width="500">
-1. Image Recognition
-We use Openpose to detect human body, hand facial. For more info about Openpose Unity Plugin please check this website: https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
-The system can detect visitors’ age, gender, expression, posture and whether they’re coming or leaving.
+
 1. Voice Analysis
 We built our corpus/dataset and use API from Google to translate speech to text. With the pre-defined keywords and the texts, the system is able to determine which feature the user wants to use.
 1. 3D virtual character
 We built 3D virtual character models, applied pre-developed movements on virtual characters’ for vividness by using Unity and Red Pill Live.
-
+1. Image Recognition
+  1. We use Openpose to detect human body, hand facial. For more info about Openpose Unity Plugin please check this website: https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin
+  1. The system can detect visitors’ age, gender, expression, posture and whether they’re coming or leaving.
+1. Precise responding: All the contents the character responds are customizable, so all the responding can be accurate.
+1. Scope of application: Since the system is customizable, there are lots of places suitable for this system. For example, companies, department stores, communities, schools and factories.
+1. Interactivity: The 3D character can greet visitors actively and have different reactions in regard to visitors’ age, gender, expression and posture, which makes the system more vivid. Thus the system is more interactive than others.
 
 * Comparison
 What makes our system different from other applications? Take a look at these four aspects:
