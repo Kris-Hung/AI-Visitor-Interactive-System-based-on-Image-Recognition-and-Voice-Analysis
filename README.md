@@ -53,3 +53,4 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 
 ## Team
 A-Chi Huang, Jamie Su, Amy Lee and me :1
+Prof. J-M Liang and Prof. S-L Wu
