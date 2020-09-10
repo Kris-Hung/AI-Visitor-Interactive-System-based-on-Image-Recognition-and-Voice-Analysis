@@ -29,7 +29,7 @@ This is an interactive system assisting receptionists by deploying 3D virtual ch
 ## Overview
 * Home Page
 
-<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_2.pdf" width="500">
+<img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_1.png" width="500">
 
 * Single electric appliance recommendation
 
