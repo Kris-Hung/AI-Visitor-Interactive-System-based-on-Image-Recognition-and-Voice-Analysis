@@ -32,20 +32,20 @@ There are four main functions in the system.
 
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_4.png" width="500">
 
-1. 3D virtual character interaction \n
+1. 3D virtual character interaction <br\>
 Combined with real-time image recognition with the webcam, the information of visitors such as the age, expression, posture and wearing can be obtained and can provide instant and vivid audio-based interaction. This also can significantly reduce the strangeness and anxiety of visitors while providing the variety of audio-based consultations, special contact notifications and message services and thus makes the service be richer experiences.
 
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_5.png" width="500">
 
-2. Personnel connection
+2. Personnel connection <br\>
 By means of voice input and touch screen, visitors can contact with any staff. The map, showing the route of any locations like bathrooms, meeting rooms, or specific offices, will assist users with audio guide.
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_6.png" width="500">
 
-3. Bulletin
+3. Bulletin <br\>
 The bulletin is for the display of latest news, introduction video and collaborations information.
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_7.png" width="500">
 
-4. Camera
+4. Camera <br\>
 Visitors can take pictures and download them by the QR code easily.
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_8.png" width="500">
 
