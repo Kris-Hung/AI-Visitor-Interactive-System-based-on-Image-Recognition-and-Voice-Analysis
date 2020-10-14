@@ -37,7 +37,7 @@ Combined with real-time image recognition with the webcam, the information of vi
 
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_5.png" width="500">
 
-2. Personnel connection <br\>
+2. Personnel connection </br>
 By means of voice input and touch screen, visitors can contact with any staff. The map, showing the route of any locations like bathrooms, meeting rooms, or specific offices, will assist users with audio guide.
 <img src="https://github.com/Kris-Hung/AI-Visitor-Interactive-System-based-on-Image-Recognition-and-Voice-Analysis/blob/master/pics/ppt_6.png" width="500">
 
